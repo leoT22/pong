@@ -1,2 +1,2 @@
 # Pong
-Um jogo simples de Pong.
+Um clássico dos anos 70.
